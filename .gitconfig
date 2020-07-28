@@ -1,0 +1,5 @@
+[user]
+	name = Oliwier Maziarz
+	email = maziarzoliwier@outlook.com
+[core]
+	editor = /usr/bin/nano
